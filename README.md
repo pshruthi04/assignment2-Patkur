@@ -30,3 +30,8 @@ Food recommendations
 |Pizza        |LassiCorner| 100INR|
 |fish fry     |Lulu cafe  | 250INR|
 |masala dosa  |Amul tiffin| 100INR|
+---
+### Quotes
+>The purpose of our lives is to be happy.
+ *-Dalai Lama*
+>Life is what happens when you're busy making other plans.” — John   *-Lennon*

@@ -19,5 +19,13 @@ the place over there is pleasant and calm and mostly known for its greenery
    * Id Proofs
    * Travel pillow
    * Hand Sanitizer
-   
+
 [About Me](AboutMe.md)
+---### Recommended Food
+Food recommendations 
+| Food/Drink  | Location  | Price |
+|   :---:     |   :---:   | :---: |
+|Iddiyapam    | Paradise  | 200INR|
+|Pizza        |LassiCorner| 100INR|
+|fish fry     |Lulu cafe  | 250INR|
+|masala dosa  |Amul tiffin| 100INR|

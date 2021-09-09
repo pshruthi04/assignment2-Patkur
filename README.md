@@ -21,7 +21,8 @@ the place over there is pleasant and calm and mostly known for its greenery
    * Hand Sanitizer
 
 [About Me](AboutMe.md)
----### Recommended Food
+---
+### Recommended Food
 Food recommendations 
 | Food/Drink  | Location  | Price |
 |   :---:     |   :---:   | :---: |

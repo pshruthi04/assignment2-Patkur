@@ -36,3 +36,19 @@ Food recommendations
  *-Dalai Lama*
 
 >Life is what happens when you're busy making other plans.” — John   *-Lennon*
+---
+### Combinatorics
+>Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures. It is closely related to many other areas of mathematics and has many applications ranging from logic to statistical physics, from evolutionary biology to computer science, etc.
+[wiki](https://en.wikipedia.org/wiki/Combinatorics)
+```
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+```
+[source](https://cp-algorithms.com/algebra/factorial-divisors.html)
+ 

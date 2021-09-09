@@ -14,3 +14,8 @@ the place over there is pleasant and calm and mostly known for its greenery
    2. Take the fort cochin to Ernakulam ferry( maybe 15 mins)
    3. walk to the Ernakulam bus station(maybe 20-30 mins)
    4. take the bus to Alleppey  (may be around 1.5 to hours)
+* Items that are to be brought
+   * Debit cards
+   * Id Proofs
+   * Travel pillow
+   * Hand Sanitizer

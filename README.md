@@ -34,4 +34,5 @@ Food recommendations
 ### Quotes
 >The purpose of our lives is to be happy.
  *-Dalai Lama*
+
 >Life is what happens when you're busy making other plans.” — John   *-Lennon*
